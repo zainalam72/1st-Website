@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  color: green;
+}
+button{
+	padding: 3px;
+  	font-size: 12px;
+ 	width: 120px;
+  	text-align: center;
+  	text-decoration: none;
+}
+p{
+	font-size: 20;
+	text-align: center;
+	line-height: 1.6;
+	text-indent: 5px;
+	color: grey;	
+}
+ .bb{
+  	border: solid;
+  	color: gray;
+  	padding: 150px ;
+  	text-align: center;
+  	font-size: 16px;
+}
+.image{
+	alignment-baseline: center;
+	margin: center;
+}
+h2{
+	color: blue;
+}
+h3{
+	color: blue;
+}
+.Upcoming{
+	color: blue;
+	width: 120px;
+}
